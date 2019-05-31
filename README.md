@@ -9,4 +9,4 @@
 #### Targeted campaigns to suit the member taste and preference of F&B
 #### Providing members in the resort with a customized experience and offers
 #### Help resort kitchen to plan the inventory and food quantity to be prepared in advance
- Given the information related to resort,club member,reservation etc. The task is to predict average spend per room night on food and beverages for the each reservation in the test set.
+ Given the information related to resort,club member,reservation etc. The task is to predict average spend per room night on food and beverages for the each reservation in the test set
